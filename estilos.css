@@ -1,6 +1,6 @@
 *{
     margin: 0px;
-    padding: 10px;
+    padding: 0px;
     box-sizing: border-box;
 }
 a{
@@ -10,6 +10,9 @@ a{
     display: flex;
     flex-flow: column nowrap;
 }
+    .margen-interno{
+        padding: 0 50px;
+    }
 .header{
     background-image: url(imagenes/foto2.jpeg);
     background-position: center;
@@ -62,10 +65,17 @@ a{
                 color: gray;
             }
     .texto-principal{
-        background-color: green;
+        /*background-color: green;*/
+        height: 580px;
+        display: flex;
+        align-items: center;
     }
         h1{
-            background-color: yellow;
+            font-family: 'Lora', serif;
+            line-height: 1.6;
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-weight: 300;
         }
 .section{
     background-color: black;
@@ -80,6 +90,30 @@ a{
         .article{
             background-color: rebeccapurple;
             flex: 1 1 40%;
+            color: #ffffff;
+            font-size:13px;
+            letter-spacing: 1px;
+            margin: 10px 10px 0 10px;
+            flex: 1 1 45%;
+            background: #7b5d5d;
+        }
+            .article a{
+                background-color: blue;
+            }
+            .article img{
+                width: 100%;
+            }
+        h3{
+            color: #fff;
+            font-size: 10px;
+            padding: 10px, 0;
+            margin-top: -90px;
+        }
+        h2{
+            font-size: 22px;
+            color: aqua;
+            text-transform: uppercase;
+            padding: 0 0 10px 0;
         }
         .navegacion{
             background-color: rgb(40, 45, 45);
@@ -89,6 +123,9 @@ a{
     background-color: brown;
     flex: 1 1 auto;
 }
+    .aside img{
+        width: 100%;
+    }
 .publicidad{
     background-color: olive;
 }

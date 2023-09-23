@@ -46,6 +46,9 @@ This project is under license of Daniel Miguélez and the students of The bridge
 
 Here we can see with our gifs, how we did it, and how do they work.
 
+![foto](imagenes/11.png)
+![foto](imagenes/image.png)
+
 
 ## Contact 
 

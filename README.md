@@ -1,14 +1,14 @@
-# RAMP-UP Project with HTML5 and CSS3 - By Daniel Miguelez Poblador.
+# RAMP-UP Project with HTML5 and CSS3 - By Daniel Miguelez Poblador. 💯
 
 <h3 align="center">FIRST PROJECT MIXING HTML5 AND CSS3</h3>
 
 <p align="center">In this project, I have developed a webpage based on flat code, and being linked afterwards with another document, this time with CSS so I could give it a bit more of life to it, to be able to see different components used and organized in different ways. </p>
 
-## Goals of this project
+## Goals of this project🤑
 
 ### To learn how to use and combine both HTML and CSS while we put and practice different tags learned in the previous lessons, linking both documents is also important and another important thing, to know how CSS3 affects every HTML tag, through different classes being used in the meantime.
 
-### DIFFERENT THINGS USED IN THE PROJECT
+### DIFFERENT THINGS USED IN THE PROJECT 👻
 
 <objectives>
   <ol>
@@ -25,12 +25,12 @@
 * [![HTML5][HTML5]][HTML5-url]
 
 
-## Getting Started
+## Getting Started 🥳
 
 In here you can appreciate an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Installation
+### Installation 🙊
 
 1. Clone the repo
     ```sh

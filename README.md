@@ -55,12 +55,11 @@ Here we can see with our gifs, how we did it, and how do they work.
 
 ## Contact 
 
-###You can ask me anything here
-
+<p align="center">You can ask me anything here</p>
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/DanielMiguelez)
 
 <p align="center">
 Daniel Miguelez
-<a href = "mailto:danielmiguelez1993@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/DanielMiguelez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:danielmiguelez1993@gmail.com" align="center"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://github.com/DanielMiguelez" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>

@@ -23,13 +23,13 @@
         background:rgba(96, 84, 84, 0.6);
         display: flex;
         flex-flow: row nowrap;
-        height: 100px;
+        height: 150px;
         align-items: center;
         border-bottom: 3px solid white;
     }
         .logo{
             flex: 1 1 auto;
-            font-size: 30px;
+            font-size: 60px;
         }
             .logo a {
                 color: white;
@@ -39,28 +39,35 @@
                 }
         .nav{
             flex: 5 1 auto;
+            display: flex;
+            justify-content: space-around;
+            
         }
             .nav a{
                 color: blanchedalmond;
-                font-size: 13px;
+                font-size: 60px;
                 text-transform: uppercase;
-                padding: 0 10px;
+                padding: 0 5px;
                 letter-spacing: 2px;
             }
                 .nav a:hover{
-                    color: grey;
+                    color: rgb(133, 20, 20);
+                    background-color: #575454;
+                    padding: 8px;
+                    border-radius: 3px;
                 }
         .social{
             flex: 1 1 auto;
             display: flex;
+            gap: 10px;
         }
             .social a{
                 color: white;
-                font-size: 18px;
+                font-size: 48px;
                 padding: 0 5px;
             }
             .social a:hover{
-                color: gray;
+                color: rgb(186, 35, 35);
             }
     .texto-principal{
         /*background-color: green;*/
@@ -71,6 +78,7 @@
         h1{
             font-family: 'Lora', serif;
             line-height: 1.6;
+            font-size: 50px;
             text-align: center;
             color: rgb(255, 255, 255);
             font-weight: 300;
@@ -97,7 +105,7 @@
         }
             .article a{
                 color: rgb(255, 255, 255);
-                font-size: 13px;
+                font-size: 53px;
                 padding: 10px 10px;
                 margin: 10px 0;
                 background-color: #575454;
@@ -112,13 +120,14 @@
             
         h3{
             color: #fff;
-            font-size: 13px;
+            font-size: 70px;
             padding: 10px, 0;
-            margin-top: -80px;
+            margin-top: -140px;
         }
         h2{
             font-size: 22px;
             color: aqua;
+            font-size: 50px;
             text-transform: uppercase;
             padding: 0 0 10px 0;
             margin-bottom: 10px;
@@ -138,23 +147,37 @@
 .aside{
     margin: 10px 5px 10px 0;
     flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background:url(imagenes/istockphoto-1192133177-170667a.jpg)
     
 }
+.aside h4{
+    font-size: 20px;
+}
+
+    h4{
+        font-size: 50px;
+    }
     .aside img{
         width: 100%;
+        margin-bottom: 10%;
+
+       
     }
-        .aside h4{
-            background: #000;
-            color: white;
-            padding: 10px;
-            text-transform: uppercase;
-        }
+       
             .aside p{
                 text-align: center;
+                color: aliceblue;
+                font-size: 20px;
             }
 .publicidad{
     margin-bottom: 3%;
-    margin-left: 5%;
+   
+}
+.foto2{
+    padding: 3%;
 }
 .footer{
     background-color: rgb(0, 0, 0);
@@ -175,43 +198,93 @@
            letter-spacing: 2px; 
         }
 
-@media all and (max-width:1100px){
+@media all and (max-width:3500px){
+    .menu{
+        gap: 45px;
+    }
+    .menu a{
+    font-size: 30px;
+   }
+   h3{
+    font-size: 20px;
+   }
+   .article a{
+    font-size: 13px;
+   }
+    
+    
+}
+
+@media all and (max-width:2000px){
     .section{
         flex-direction: column;
     }
+    .nav{
+        margin-top: 2%;
+        gap: 5%;
+    }
+    .nav a{
+        display: flex;
+        margin-right: 10px;
+    }
     .menu{
-      
-        height: 80px;
+        display: flex;
+        flex-direction: column;
+        height: 8%;
+        padding: 15px;
     }
     .aside{
         display: flex;
-        justify-content: center;
+        flex-direction: column;
+    }
+    .social{
+        display: none;
     }
 
 }
-@media all and (max-width:850px){
+
+
+
+
+@media all and (max-width:1360px){
     .articulos{
         flex-direction: column;
     }
-    .texto-principal{
-        font-size: 13px;
-    }
-    .off{
-        display: none;
-    }
+    
+   
     .logo{
         margin-bottom: 20px;
     }
     .menu{
         flex-direction: column;
-        height: 120px;
+        
+       
     }
-}
-@media all and (max-width:670px){
-    .aside{
-        flex-direction: column;
+    .off{
+        display: none;
     }
-    h2{
-        font-size: 13px;
+    .nav a{
+       margin: 0 30px;
     }
-}
+    .texto-principal h1{
+        font-size: 22px;
+    
+    
+    }}
+
+   
+       
+    
+    
+    @media all and (max-width:800px){
+       h3{
+        font-size: 15px;
+       }
+       h2{
+        font-size: 28px;
+       }
+        .off{
+            display: none;
+        }
+    }
+

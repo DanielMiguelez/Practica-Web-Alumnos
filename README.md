@@ -24,7 +24,7 @@ This project has been created using HTML, CSS with FLEXBOX.
 
 ### Built With
 
-[![Generic badge](https://img.shields.io/badge/<HTML5>-<CSS2>-<BLUE>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<HTML5>-<CSS2>-<COLOR>.svg)](https://shields.io/)
 
 
 ## Getting Started 🥳
@@ -54,6 +54,10 @@ Here we can see with our gifs, how we did it, and how do they work.
 
 
 ## Contact 
+
+###You can ask me anything here
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/DanielMiguelez)
 
 <p align="center">
 Daniel Miguelez

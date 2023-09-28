@@ -55,11 +55,8 @@ Here we can see with our gifs, how we did it, and how do they work.
 
 ## Contact 
 
-###You can ask me anything here
-<div align="center">
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-</div >
 
+<p align="center" >You can ask me anything here</p>
 <p align="center" >Daniel Miguelez</p>
 </br>
 <p align="center">

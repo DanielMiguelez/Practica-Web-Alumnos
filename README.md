@@ -60,7 +60,6 @@ Here we can see with our gifs, how we did it, and how do they work.
 <p align="center" >Daniel Miguelez</p>
 </br>
 <p align="center">
-[![Build Status](https://travis-ci.org/https://github.com/DanielMiguelez//your-repository.svg?branch=master)](https://travis-ci.org/https://github.com/DanielMiguelez/https://github.com/DanielMiguelez/Practica-Web-Alumnos)
-
+<a href = "mailto:danielmiguelez1993@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/daniel-miguelez-poblador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>

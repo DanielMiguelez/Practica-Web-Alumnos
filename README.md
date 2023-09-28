@@ -51,6 +51,8 @@ Here we can see with our gifs, how we did it, and how do they work.
 ![foto](imagenes/11.png)
 ![foto](imagenes/image.png)
 ![foto](imagenes/Sin%20t%C3%ADtulo.png)
+![foto](imagenes/0bb8e699-65bd-4363-9726-ef9969ee590a.gif)
+![foto](imagenes/b99ca55e-feb6-43e8-ad16-d983329476f3.gif)
 
 
 ## Contact 

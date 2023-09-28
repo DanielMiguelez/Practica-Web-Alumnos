@@ -6,9 +6,11 @@
 
 ## Goals of this project🤑
 
-### To learn how to use and combine both HTML and CSS while we put and practice different tags learned in the previous lessons, linking both documents is also important and another important thing, to know how CSS3 affects every HTML tag, through different classes being used in the meantime.
+To learn how to use and combine both HTML and CSS while we put and practice different tags learned in the previous lessons, linking both documents is also important and another important thing, to know how CSS3 affects every HTML tag, through different classes being used in the meantime.
 
-### DIFFERENT THINGS USED IN THE PROJECT 👻
+### DIFFERENT TECHNOLOGIES USED IN THE PROJECT 👻
+
+This project has been created using HTML, CSS with FLEXBOX.
 
 <objectives>
   <ol>
@@ -22,7 +24,7 @@
 
 ### Built With
 
-* [![HTML5][HTML5]][HTML5-url]
+[![Generic badge](https://img.shields.io/badge/<HTML5>-<CSS2>-<BLUE>.svg)](https://shields.io/)
 
 
 ## Getting Started 🥳
@@ -48,6 +50,7 @@ Here we can see with our gifs, how we did it, and how do they work.
 
 ![foto](imagenes/11.png)
 ![foto](imagenes/image.png)
+![foto](imagenes/Sin%20t%C3%ADtulo.png)
 
 
 ## Contact 
